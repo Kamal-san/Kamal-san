@@ -25,9 +25,9 @@ I'm Kamalesh from India 🇮🇳.
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
 
 
   <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss" />
