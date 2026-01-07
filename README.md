@@ -43,7 +43,7 @@ I'm Kamalesh from India 🇮🇳.
 - Designed for accessibility and fast response
 
 ### 🔹 **TrendChoice E-Commerce – MERN**
-- Responsive clothing store with cart & checkout
+- Responsive E-Commerce store with cart & checkout
 - Dynamic product listings and mobile-first UI
 - Smooth UX with lazy loading & optimized components
 
