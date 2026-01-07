@@ -19,11 +19,18 @@ I'm Kamalesh from India 🇮🇳.
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" />
